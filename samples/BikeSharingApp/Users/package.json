@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0",
-    "morgan": "^1.8.0",
+    "morgan": "^1.10.0",
     "express-api-validator": "0.1.0",
     "body-parser": "^1.16.1",
     "validate.js": "^0.11.1",
