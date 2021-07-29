@@ -6,7 +6,7 @@
     "async": "^2.1.5",
     "body-parser": "^1.16.1",
     "express": "^4.13.4",
-    "mongodb": "^3.5.2",
+    "mongodb": "^3.6.10",
     "morgan": "^1.7.0",
     "validate.js": "^0.11.1"
   },
