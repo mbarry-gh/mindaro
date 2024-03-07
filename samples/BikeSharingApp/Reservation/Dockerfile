@@ -1,4 +1,4 @@
-FROM golang:1.8
+FROM golang:bookworm
 
 # Bundle app source
 RUN mkdir /app
