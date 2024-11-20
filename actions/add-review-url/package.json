@@ -16,7 +16,7 @@
   "homepage": "https://github.com/azure/dev-spaces/actions/add-review-url-ts#readme",
   "dependencies": {
     "@actions/core": "^1.2.0",
-    "@octokit/graphql": "^4.3.0"
+    "@octokit/graphql": "^6.0.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.21",
