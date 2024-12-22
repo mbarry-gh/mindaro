@@ -1,4 +1,4 @@
-FROM golang:1.8
+FROM golang:1.24rc1
 
 # Bundle app source
 RUN mkdir /app
